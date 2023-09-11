@@ -1,0 +1,25 @@
+{
+  "recommendations": [
+    "ritwickdey.liveserver",
+    "formulahendry.auto-rename-tag",
+    "alefragnani.bookmarks",
+    "naumovs.color-highlight",
+    "ms-azuretools.vscode-docker",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "wix.vscode-import-cost",
+    "xabikos.javascriptsnippet",
+    "pkief.material-icon-theme",
+    "mongodb.mongodb-vscode",
+    "esbenp.prettier-vscode",
+    "gruntfuggly.todo-tree",
+    "editorconfig.edi",
+    "mikestead.dotenv",
+    "mhutchie.git-graph",
+    "yzhang.markdown-all-in-one",
+    "styled-components.vscode-styled-components",
+    "steoates.autoimport",
+    "nucllear.vscode-extension-auto-import"
+  ]
+}
